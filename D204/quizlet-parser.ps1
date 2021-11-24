@@ -3,8 +3,6 @@ $inputObject = (Get-Content '.\Documents\questions&answers.txt' -raw) -Replace "
 $questionLength = Select-String '\[SPLIT\]' -inputobject $inputObject -AllMatches | Foreach {$_.Matches.Index}
 $hash = @{}
 
-$fileContent = Export-Csv -Path .\Documents\Quizlet.csv -Delimiter '~'
-
 for ($i = 0; $i -lt $questionLength.Count; $i++)
 { 
     $currentIndex = $questionLength[$i]    
