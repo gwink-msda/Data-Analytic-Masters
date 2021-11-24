@@ -1,35 +1,25 @@
-﻿$readValue = Get-Content '.\Documents\questions&answers.txt'
-$questionArray = $readValue | Select-String -Pattern '[\[SPLIT\]](.+)[\[SPLIT\]]'
-$validatedArray = @()
-$temp = 0
-$tempString = ""
+
+$inputObject = (Get-Content '.\Documents\questions&answers.txt' -raw) -Replace "\n", ""
+$questionLength = Select-String '\[SPLIT\]' -inputobject $inputObject -AllMatches | Foreach {$_.Matches.Index}
 $hash = @{}
 
-foreach ($item in $questionArray)
-{
-    #If the line contains temp, go next and start capture
-    #otherwise, append the line to the current String we are creating
-    if($item.ToString().contains("SPLIT")) {
-        #We want to add the current string to our validated array
-        $validatedArray += $tempString
-        $tempString = ""
-   
-    } else {
-        $tempString += $item.toString()
+$fileContent = Export-Csv -Path .\Documents\Quizlet.csv -Delimiter '~'
+
+for ($i = 0; $i -lt $questionLength.Count; $i++)
+{ 
+    $currentIndex = $questionLength[$i]    
+    $nextIndex = $questionLength[$i+1]
+    $StringLength = $nextIndex - $currentIndex
+
+    if($StringLength -gt 0) {
+        $temp = $inputObject.Substring($currentIndex+7, $StringLength-7)
+        $question_answer = $temp -Split '\[ANSWER\]'
+        $hash.Add($question_answer[0],$question_answer[1])
     }
 }
 
-foreach ($item in $validatedArray)
-{
-    $temp = $item -Split '\[ANSWER\]'
-    $hash.Add($temp[0], $temp[1])
-}
+	
+$hash.GetEnumerator() |
+    Select-Object -Property Key,Value |
+        Export-Csv -NoTypeInformation -Path .\Desktop\HashToCsv3.csv
 
-#$fileContent = Export-Csv -Path .\Documents\test.csv
-
-foreach ($kvp in $hash.GetEnumerator()) {
-    $key = $kvp.Key
-    $val = $kvp.Value
-    $NewLine = "{0},{1}" -f $key,$val
-    $NewLine | add-content -path .\Documents\test.csv
-}
