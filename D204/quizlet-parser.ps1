@@ -15,7 +15,6 @@ for ($i = 0; $i -lt $questionLength.Count; $i++)
         $hash.Add($question_answer[0],$question_answer[1])
     }
 }
-
 	
 $hash.GetEnumerator() |
     Select-Object -Property Key,Value |
