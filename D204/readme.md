@@ -1,5 +1,8 @@
 The goal of this project is to present a roadmap for what I personally use for each course.  Additionally, I like to program quick solutions to things so I'll try and add my snippets that I use.  Below is the parsed Quizlet questions/answers that WGU recommends for studying.  I wrote the parser in powershell which you can find in the root directory of my D204 folder.  I had to use powershell due to my environment configuration at work.
 
+``11/29
+All I plan on doing is studying these questions and answers, finding my sticking points, and then finding resources outside of WGU to learn the material.  I will try and post links that actually helped.
+
 | Question | Answer |
 | ------------- | ------------- |
 | What type of skew would a polarizing movie get - where the beginning and end points are very high, with a dip in the middle?   | U-shape skew |
