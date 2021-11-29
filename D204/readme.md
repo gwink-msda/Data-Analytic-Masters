@@ -22,8 +22,7 @@
 | Why is 80% of data science the preparation step?   | Because if you put garbage into an analysis, you'll get garbage out (GIGO) |
 | What is a potential problem in the data mining/supervised models step?   | Running on entire data is problematic; need to subset data into training and testing datasets to build models. |
 | Read this IRAC story snippet. What step in the IRAC process is being performed? "Since it was based solely on shopping patterns and not private information, there was no legal breach or violation"   | Application - Apply relevant rules/laws to the facts that created the issue |
-| What are potential problems in the Predictive Modeling step?   | Too many input variables (predictors) can cause problems Correlation does not imply causation.
-Time series models often need sufficient time data to offer precise trending. Predictive model accuracy should be assessed using cross-validation. |
+| What are potential problems in the Predictive Modeling step?   | Too many input variables (predictors) can cause problems Correlation does not imply causation. Time series models often need sufficient time data to offer precise trending. Predictive model accuracy should be assessed using cross-validation. |
 | Which tool has programs that integrate with web-app for easy deployment?   | Python |
 | What is one popular way to show causality?   | A/B Testing |
 | In what phase does the analyst identify the stake holders and research questions?   | Business Understanding/Planning/Discovery |
