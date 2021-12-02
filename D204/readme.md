@@ -1,11 +1,14 @@
+## <p align="center">Introduction</p>
 The goal of this project is to present a roadmap for what I personally use for each course.  Additionally, I like to program quick solutions to things so I'll try and add my snippets that I use.  Below is the parsed Quizlet questions/answers that WGU recommends for studying.  I wrote the parser in powershell which you can find in the root directory of my D204 folder.  I had to use powershell due to my environment configuration at work.
 
-11/29
+## <p align="center">Log</p>
+#### 11/29
 All I plan on doing is studying these questions and answers, finding my sticking points, and then finding resources outside of WGU to learn the material.  I will try and post links that actually helped.
 
-12/2
+#### 12/2
 I started the course yesterday but only had time today to start the material.  I went through the D204 material presented on the website in about an hour and a half (I'm not that quick of a reader, it's just that small).  My course instructor shared a learn-back study guide that I will try and post in the root directory of D204.  I think my way forward is to go through the quizlet questions and answers one time, review the learn-back, take the pre-assessment and then schedule the real-deal for 12/4.
 
+## <p align="center">Quizlet</p>
 | Question | Answer |
 | ------------- | ------------- |
 | What type of skew would a polarizing movie get - where the beginning and end points are very high, with a dip in the middle?   | U-shape skew |
