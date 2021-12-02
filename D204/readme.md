@@ -6,7 +6,7 @@ The goal of this project is to present a roadmap for what I personally use for e
 All I plan on doing is studying these questions and answers, finding my sticking points, and then finding resources outside of WGU to learn the material.  I will try and post links that actually helped.
 
 #### 12/2
-I started the course yesterday but only had time today to start the material.  I went through the D204 material presented on the website in about an hour and a half (I'm not that quick of a reader, it's just that small).  My course instructor shared a learn-back study guide that I will try and post in the root directory of D204.  I think my way forward is to go through the quizlet questions and answers one time, review the learn-back, take the pre-assessment and then schedule the real-deal for 12/4.
+I started the course yesterday but only had time today to start the material.  I went through the D204 material presented on the website in about an hour and a half (I'm not that quick of a reader, it's just that small).  My course instructor shared a [Teach-back](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/D204%20REVISED%20STUDY%20PLAN_TEACH%20BACK%20PLAN.docx).  I think my way forward is to go through the quizlet questions and answers one time, review the teach-back, take the pre-assessment and then schedule the real-deal for 12/4.
 
 ## <p align="center">Quizlet</p>
 | Question | Answer |
