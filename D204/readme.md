@@ -27,6 +27,10 @@ The test is in 3.5 hours, so I plan on brushing up a few more weaknesses and mem
 
 The test is in 30 minutes.  I haven't really been cramming today because after doing the retake on the pre-assessment, I don't know where to focus my energy.  A lot of the questions seem like I can work through them if I don't know them.  Just a good process of elimination.  I'll post the results afterwards.
 
+I crushed it, it felt more challenging than the pre-assessments but the language of the questions made it easier to answer.
+
+![Assessment](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/assessment.png)
+
 
 ## <p align="center">Quizlet</p>
 | Question | Answer |
