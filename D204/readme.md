@@ -25,6 +25,8 @@ After studying the information above + the missed questions + the quizlet one mo
 
 The test is in 3.5 hours, so I plan on brushing up a few more weaknesses and memorizing the teach-back chart that I referenced above.
 
+The test is in 30 minutes.  I haven't really been cramming today because after doing the retake on the pre-assessment, I don't know where to focus my energy.  A lot of the questions seem like I can work through them if I don't know them.  Just a good process of elimination.  I'll post the results afterwards.
+
 
 ## <p align="center">Quizlet</p>
 | Question | Answer |
