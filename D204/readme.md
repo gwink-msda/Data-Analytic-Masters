@@ -8,6 +8,18 @@ All I plan on doing is studying these questions and answers, finding my sticking
 #### 12/2
 I started the course yesterday but only had time today to start the material.  I went through the D204 material presented on the website in about an hour and a half (I'm not that quick of a reader, it's just that small).  My course instructor shared a [Teach-back](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/D204%20REVISED%20STUDY%20PLAN_TEACH%20BACK%20PLAN.docx).  I think my way forward is to go through the quizlet questions and answers one time, review the teach-back, take the pre-assessment and then schedule the real-deal for 12/4.
 
+I did my pre-assessment today
+![Pre-Assessment](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/b48a11855eb6fbb5cffeac1bafd5a5d3.png)
+The results really aren't that bad for a 1 day study session.  I've scheduled my exam for 12/4.
+
+#### 12/4
+My test is in about 7 hours so I'll get to studying officially.  What I like to do is first go through my pre-assessment results.  I'll go over the correct and incorrect answers because there are some questions that I had to 50/50 and I need to know why it was one versus the other.  I am noting ones that I get wrong so I can reference them later.  The list looks like this right now
+
+```
+Predictive Analysis, Data Mining, Critical Path, Descriptive Analysis
+```
+
+
 ## <p align="center">Quizlet</p>
 | Question | Answer |
 | ------------- | ------------- |
