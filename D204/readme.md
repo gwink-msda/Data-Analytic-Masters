@@ -2,21 +2,21 @@
 The goal of this project is to present a roadmap for what I personally use for each course.  Additionally, I like to program quick solutions to things so I'll try and add my snippets that I use.  Below is the parsed Quizlet questions/answers that WGU recommends for studying.  I wrote the parser in powershell which you can find in the root directory of my D204 folder.  I had to use powershell due to my environment configuration at work.
 
 ## <p align="center">Log</p>
-#### 11/29
+### 11/29
 All I plan on doing is studying these questions and answers, finding my sticking points, and then finding resources outside of WGU to learn the material.  I will try and post links that actually helped.
 
-#### 12/2
+### 12/2
 I started the course yesterday but only had time today to start the material.  I went through the D204 material presented on the website in about an hour and a half (I'm not that quick of a reader, it's just that small).  My course instructor shared a [Teach-back](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/D204%20REVISED%20STUDY%20PLAN_TEACH%20BACK%20PLAN.docx).  I think my way forward is to go through the quizlet questions and answers one time, review the teach-back, take the pre-assessment and then schedule the real-deal for 12/4.
 
 I did my pre-assessment today
 ![Pre-Assessment](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/b48a11855eb6fbb5cffeac1bafd5a5d3.png)
 The results really aren't that bad for a 1 day study session.  I've scheduled my exam for 12/4.
 
-#### 12/4
+### 12/4
 My test is in about 7 hours so I'll get to studying officially.  What I like to do is first go through my pre-assessment results.  I'll go over the correct and incorrect answers because there are some questions that I had to 50/50 and I need to know why it was one versus the other.  I am noting ones that I get wrong so I can reference them later.  The list looks like this right now
 
 ```
-Predictive Analysis, Data Mining, Critical Path, Descriptive Analysis
+Predictive Analysis, Data Mining, Critical Path, Descriptive Analysis. Open-Ended responses, Secondary data, Qalitative data, Quantitative data, Transactional data, General Data Protection Regulation, all legal, data democratization, Bayes theorem, Hypothesis testing, central tendency, Regression, linear regression model, cluster analysis
 ```
 
 
