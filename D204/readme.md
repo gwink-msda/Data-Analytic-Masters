@@ -1,7 +1,3 @@
-code {
-  white-space : pre-wrap !important;
-}
-
 ## <p align="center">Introduction</p>
 The goal of this project is to present a roadmap for what I personally use for each course.  Additionally, I like to program quick solutions to things so I'll try and add my snippets that I use.  Below is the parsed Quizlet questions/answers that WGU recommends for studying.  I wrote the parser in powershell which you can find in the root directory of my D204 folder.  I had to use powershell due to my environment configuration at work.
 
@@ -19,9 +15,8 @@ The results really aren't that bad for a 1 day study session.  I've scheduled my
 ### 12/4
 My test is in about 7 hours so I'll get to studying officially.  What I like to do is first go through my pre-assessment results.  I'll go over the correct and incorrect answers because there are some questions that I had to 50/50 and I need to know why it was one versus the other.  I am noting ones that I get wrong so I can reference them later.  The list looks like this right now
 
-```
-Predictive Analysis, Data Mining, Critical Path, Descriptive Analysis. Open-Ended responses, Secondary data, Qalitative data, Quantitative data, Transactional data, General Data Protection Regulation, all legal, data democratization, Bayes theorem, Hypothesis testing, central tendency, Regression, linear regression model, cluster analysis
-```
+```Predictive Analysis, Data Mining, Critical Path, Descriptive Analysis. Open-Ended responses, Secondary data, Qalitative data, Quantitative data, Transactional data, General Data Protection Regulation, all legal, data democratization, Bayes theorem, Hypothesis testing, central tendency, Regression, linear regression model, cluster analysis```
+
 
 
 ## <p align="center">Quizlet</p>
