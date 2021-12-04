@@ -10,6 +10,7 @@ I started the course yesterday but only had time today to start the material.  I
 
 I did my pre-assessment today
 ![Pre-Assessment](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/b48a11855eb6fbb5cffeac1bafd5a5d3.png)
+
 The results really aren't that bad for a 1 day study session.  I've scheduled my exam for 12/4.
 
 ### 12/4
