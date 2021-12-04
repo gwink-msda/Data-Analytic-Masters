@@ -9,7 +9,7 @@ All I plan on doing is studying these questions and answers, finding my sticking
 I started the course yesterday but only had time today to start the material.  I went through the D204 material presented on the website in about an hour and a half (I'm not that quick of a reader, it's just that small).  My course instructor shared a [Teach-back](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/D204%20REVISED%20STUDY%20PLAN_TEACH%20BACK%20PLAN.docx).  I think my way forward is to go through the quizlet questions and answers one time, review the teach-back, take the pre-assessment and then schedule the real-deal for 12/4.
 
 I did my pre-assessment today
-![Pre-Assessment](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/b48a11855eb6fbb5cffeac1bafd5a5d3.png)
+![Pre-Assessment](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/Pre-Assessments/b48a11855eb6fbb5cffeac1bafd5a5d3.png)
 
 The results really aren't that bad for a 1 day study session.  I've scheduled my exam for 12/4.
 
@@ -21,7 +21,7 @@ My test is in about 7 hours so I'll get to studying officially.  What I like to 
 
 After studying the information above + the missed questions + the quizlet one more time, I got a pretty nice pass.
 
-![Pre-Assessment_2](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/728cb2d1b730c3056386ba77441dc8c9.png)
+![Pre-Assessment_2](https://github.com/gwink-msda/Data-Analytic-Masters/blob/main/D204/Pre-Assessments/728cb2d1b730c3056386ba77441dc8c9.png)
 
 The test is in 3.5 hours, so I plan on brushing up a few more weaknesses and memorizing the teach-back chart that I referenced above.
 
