@@ -8,11 +8,13 @@ So without further ado, I will list out each section of the PA and answer them a
 ### Part A
 - [X] Summarize a research question that can be answered using both the original database and the add-on CSV data. The question should require data from both these data sources.
     
+    ```
+    Do 'techie' customers have less services than customers who are not classified as 'techie'
+    ```
+    
 - [X]    1. Identify which data from the original data set and the add-on CSV file are needed to answer the research question.
     
 ```
-A. Do 'techie' customers have less services than customers who are not classified as 'techie'
-    A1. Identify Data Requirements
         Customer Table
           Customer_id
           Techie
